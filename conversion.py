@@ -1,7 +1,7 @@
 # Python Program - Convert Fahrenheit to Celsius
 
 while True:
-  print("Enter 'x' for exit.")
+print("Enter 'x' for exit.")
 fah = input("Enter Temperature in Fahrenheit: ")
 if fah == 'x':
 break
